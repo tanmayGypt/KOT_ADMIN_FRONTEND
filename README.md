@@ -22,3 +22,4 @@ The Hotel Management System is a desktop application designed to streamline vari
 
 
 # KOT_ADMIN_FRONTEND
+# KOT_ADMIN_FRONTEND

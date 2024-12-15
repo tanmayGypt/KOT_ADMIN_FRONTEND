@@ -21,3 +21,4 @@ The Hotel Management System is a desktop application designed to streamline vari
 5. **Transaction Management**: Manage online payments and transactions securely.
 
 
+# KOT_ADMIN_FRONTEND
